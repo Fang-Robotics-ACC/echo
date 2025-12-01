@@ -39,3 +39,7 @@ Python is used for initial testing of HuskyCV as we retro-fit it to use Cool
 Serial instead of RefSerial.
 
 A C++ port of HuskyCV is underway (Katana).
+# C++
+
+You will need to include the flatbuffers headers 
+https://github.com/google/flatbuffers/tree/master/include/flatbuffers
